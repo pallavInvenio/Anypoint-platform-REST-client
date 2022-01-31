@@ -5,6 +5,8 @@ import requests
 base_url = 'https://anypoint.mulesoft.com'
 
 # for login using username and password
+
+
 def fetch_access_token(username, password):
     login_path = base_url+'/accounts/login'
     post_data = {"username": username, "password": password}
