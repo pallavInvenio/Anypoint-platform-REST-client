@@ -1,0 +1,2787 @@
+{
+    'data': [{
+            'id': 8622557,
+            'timeCreated': 1633506526110,
+            'timeUpdated': 1633506526241,
+            'name': 'api-sys-uaepass-v1',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STOPPED',
+            'started': False,
+            'serverArtifacts': [{
+                'id': 10314630,
+                'timeCreated': 1633506526238,
+                'timeUpdated': 1637849234633,
+                'artifactName': 'api-sys-uaepass-v1',
+                'artifact': {
+                    'id': 9693043,
+                    'storageId': 10689987,
+                    'name': 'api-sys-uaepass-v1',
+                    'fileName': 'api-sys-uaepass-v1-1.0.0-mule-application.jar',
+                    'fileChecksum': 'ab0aef478b4502690fa225f2cbb5bc6c96c12ac0',
+                    'fileSize': 93402302,
+                    'timeUpdated': 1633506528655
+                },
+                'deploymentId': 8622557,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STOPPED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9693043,
+                'storageId': 10689987,
+                'name': 'api-sys-uaepass-v1',
+                'fileName': 'api-sys-uaepass-v1-1.0.0-mule-application.jar',
+                'fileChecksum': 'ab0aef478b4502690fa225f2cbb5bc6c96c12ac0',
+                'fileSize': 93402302,
+                'timeUpdated': 1633506528655
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8622654,
+            'timeCreated': 1633507410683,
+            'timeUpdated': 1633507410868,
+            'name': 'api-prc-uaepass-v1',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STARTED',
+            'started': True,
+            'serverArtifacts': [{
+                'id': 10314734,
+                'timeCreated': 1633507410866,
+                'timeUpdated': 1633962317024,
+                'artifactName': 'api-prc-uaepass-v1',
+                'artifact': {
+                    'id': 9693155,
+                    'storageId': 10690122,
+                    'name': 'api-prc-uaepass-v1',
+                    'fileName': 'api-prc-uaepass-v1-1.0.0-mule-application.jar',
+                    'fileChecksum': '4b4bf7b119d5f272c909058599c6764771b3bd95',
+                    'fileSize': 105756353,
+                    'timeUpdated': 1633507413407
+                },
+                'deploymentId': 8622654,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STARTED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9693155,
+                'storageId': 10690122,
+                'name': 'api-prc-uaepass-v1',
+                'fileName': 'api-prc-uaepass-v1-1.0.0-mule-application.jar',
+                'fileChecksum': '4b4bf7b119d5f272c909058599c6764771b3bd95',
+                'fileSize': 105756353,
+                'timeUpdated': 1633507413407
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8636800,
+            'timeCreated': 1633609781423,
+            'timeUpdated': 1633610796945,
+            'name': 'test-appplication',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STOPPED',
+            'started': False,
+            'serverArtifacts': [{
+                'id': 10331666,
+                'timeCreated': 1633609781830,
+                'timeUpdated': 1637849209392,
+                'artifactName': 'test-appplication',
+                'artifact': {
+                    'id': 9709792,
+                    'storageId': 10710869,
+                    'name': 'test-appplication',
+                    'fileName': 'test_appplication-1.0.0-SNAPSHOT-mule-application.jar',
+                    'fileChecksum': '84fa7e774f109bf1d26468b5bebc8da9ffb563df',
+                    'fileSize': 1771480,
+                    'timeUpdated': 1633610797113
+                },
+                'deploymentId': 8636800,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STOPPED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9709792,
+                'storageId': 10710869,
+                'name': 'test-appplication',
+                'fileName': 'test_appplication-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': '84fa7e774f109bf1d26468b5bebc8da9ffb563df',
+                'fileSize': 1771480,
+                'timeUpdated': 1633610797113
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8674803,
+            'timeCreated': 1634037177392,
+            'timeUpdated': 1635325028279,
+            'name': 'api-sys-edirham',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STARTED',
+            'started': True,
+            'serverArtifacts': [{
+                'id': 10375474,
+                'timeCreated': 1634037177623,
+                'timeUpdated': 1635418796400,
+                'artifactName': 'api-sys-edirham',
+                'artifact': {
+                    'id': 9909897,
+                    'storageId': 10964329,
+                    'name': 'api-sys-edirham',
+                    'fileName': 'api-sys-edirham-v1-1.0.0-mule-application.jar',
+                    'fileChecksum': '6c998d775395fe3e09e516e2331a4242c863945d',
+                    'fileSize': 101958544,
+                    'timeUpdated': 1635325030964
+                },
+                'deploymentId': 8674803,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STARTED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9909897,
+                'storageId': 10964329,
+                'name': 'api-sys-edirham',
+                'fileName': 'api-sys-edirham-v1-1.0.0-mule-application.jar',
+                'fileChecksum': '6c998d775395fe3e09e516e2331a4242c863945d',
+                'fileSize': 101958544,
+                'timeUpdated': 1635325030964
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8674831,
+            'timeCreated': 1634037418737,
+            'timeUpdated': 1634562849345,
+            'name': 'api-prc-edirham',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STARTED',
+            'started': True,
+            'serverArtifacts': [{
+                'id': 10375506,
+                'timeCreated': 1634037419003,
+                'timeUpdated': 1634567102828,
+                'artifactName': 'api-prc-edirham',
+                'artifact': {
+                    'id': 9816443,
+                    'storageId': 10842343,
+                    'name': 'api-prc-edirham',
+                    'fileName': 'api-prc-edirham-v1-1.0.0-mule-application.jar',
+                    'fileChecksum': '982ddd535ab8bdb31488dbef1336cd8a043c147e',
+                    'fileSize': 102640731,
+                    'timeUpdated': 1634562533393
+                },
+                'deploymentId': 8674831,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STARTED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9816443,
+                'storageId': 10842343,
+                'name': 'api-prc-edirham',
+                'fileName': 'api-prc-edirham-v1-1.0.0-mule-application.jar',
+                'fileChecksum': '982ddd535ab8bdb31488dbef1336cd8a043c147e',
+                'fileSize': 102640731,
+                'timeUpdated': 1634562533393
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8692792,
+            'timeCreated': 1634187916517,
+            'timeUpdated': 1634187916787,
+            'name': 'api-prc-giban-v3-poc',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STARTED',
+            'started': True,
+            'serverArtifacts': [{
+                'id': 10397275,
+                'timeCreated': 1634187916784,
+                'timeUpdated': 1634187924646,
+                'artifactName': 'api-prc-giban-v3-poc',
+                'artifact': {
+                    'id': 9777696,
+                    'storageId': 10795862,
+                    'name': 'api-prc-giban-v3-poc',
+                    'fileName': 'api-prc-giban-v3-poc-1.0.0-SNAPSHOT-mule-application.jar',
+                    'fileChecksum': '948e82da4da7bf1e859301d585a831e8a5cc5bd1',
+                    'fileSize': 29269831,
+                    'timeUpdated': 1634187917552
+                },
+                'deploymentId': 8692792,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STARTED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9777696,
+                'storageId': 10795862,
+                'name': 'api-prc-giban-v3-poc',
+                'fileName': 'api-prc-giban-v3-poc-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': '948e82da4da7bf1e859301d585a831e8a5cc5bd1',
+                'fileSize': 29269831,
+                'timeUpdated': 1634187917552
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8729353,
+            'timeCreated': 1634554258324,
+            'timeUpdated': 1634633911198,
+            'name': 'api-prc-uaecb-giban-v1',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STARTED',
+            'started': True,
+            'serverArtifacts': [{
+                'id': 10440030,
+                'timeCreated': 1634554258671,
+                'timeUpdated': 1634653503003,
+                'artifactName': 'api-prc-uaecb-giban-v1',
+                'artifact': {
+                    'id': 9826665,
+                    'storageId': 10855541,
+                    'name': 'api-prc-uaecb-giban-v1',
+                    'fileName': 'api-prc-uaecb-giban-v1-1.0.0-mule-application.jar',
+                    'fileChecksum': 'db8c954a538a9d4b946a13c815924021aee8b6db',
+                    'fileSize': 118175737,
+                    'timeUpdated': 1634633913380
+                },
+                'deploymentId': 8729353,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STARTED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9826665,
+                'storageId': 10855541,
+                'name': 'api-prc-uaecb-giban-v1',
+                'fileName': 'api-prc-uaecb-giban-v1-1.0.0-mule-application.jar',
+                'fileChecksum': 'db8c954a538a9d4b946a13c815924021aee8b6db',
+                'fileSize': 118175737,
+                'timeUpdated': 1634633913380
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8729867,
+            'timeCreated': 1634556072106,
+            'timeUpdated': 1635839087753,
+            'name': 'api-sys-ects-v1',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STARTED',
+            'started': True,
+            'serverArtifacts': [{
+                'id': 10440658,
+                'timeCreated': 1634556072484,
+                'timeUpdated': 1635839175097,
+                'artifactName': 'api-sys-ects-v1',
+                'artifact': {
+                    'id': 9963982,
+                    'storageId': 11035918,
+                    'name': 'api-sys-ects-v1',
+                    'fileName': 'api-sys-ects-v1-1.0.0-mule-application.jar',
+                    'fileChecksum': 'b2395ed28b9b47211810a386ec2e881a89341614',
+                    'fileSize': 89715374,
+                    'timeUpdated': 1635839089753
+                },
+                'deploymentId': 8729867,
+                'serverId': 10718724,
+                'lastReportedStatus': 'STARTED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9963982,
+                'storageId': 11035918,
+                'name': 'api-sys-ects-v1',
+                'fileName': 'api-sys-ects-v1-1.0.0-mule-application.jar',
+                'fileChecksum': 'b2395ed28b9b47211810a386ec2e881a89341614',
+                'fileSize': 89715374,
+                'timeUpdated': 1635839089753
+            },
+            'target': {
+                'id': 10718724,
+                'timeCreated': 1633251765076,
+                'timeUpdated': 1638081978477,
+                'name': 'ftaeidev',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0',
+                'gatewayVersion': '4.3.0',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1696323765000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                    'ip': '172.31.10.67',
+                    'networkInterface': 'eth0'
+                }],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'Java(TM) SE Runtime Environment',
+                            'version': '1.8.0_131-b11'
+                        },
+                        'specification': {
+                            'vendor': 'Oracle Corporation',
+                            'name': 'Java Platform API Specification',
+                            'version': '1.8'
+                        }
+                    },
+                    'osInformation': {
+                        'name': 'Linux',
+                        'version': '4.18.0-240.1.1.el8_3.x86_64',
+                        'architecture': 'amd64'
+                    },
+                    'muleLicenseExpirationDate': 1709251200000
+                }
+            }
+        },
+        {
+            'id': 8743660,
+            'timeCreated': 1634646080196,
+            'timeUpdated': 1635071635800,
+            'name': 'api-sys-edirham-v1',
+            'uptime': -1,
+            'desiredStatus': 'STARTED',
+            'lastReportedStatus': 'STOPPED',
+            'started': False,
+            'serverArtifacts': [{
+                'id': 10456948,
+                'timeCreated': 1634646080264,
+                'timeUpdated': 1638252980702,
+                'artifactName': 'api-sys-edirham-v1',
+                'artifact': {
+                    'id': 9878924,
+                    'storageId': 10923718,
+                    'name': 'api-sys-edirham-v1',
+                    'fileName': 'api-sys-edirham-v1.jar',
+                    'fileChecksum': '3ca6e0d07d1b86bf3b6fa0bfbcef1daa32abf696',
+                    'fileSize': 101972458,
+                    'timeUpdated': 1635071638088
+                },
+                'deploymentId': 8743660,
+                'serverId': 11061139,
+                'lastReportedStatus': 'STOPPED',
+                'desiredStatus': 'STARTED',
+                'message': '',
+                'discovered': False
+            }],
+            'artifact': {
+                'id': 9878924,
+                'storageId': 10923718,
+                'name': 'api-sys-edirham-v1',
+                'fileName': 'api-sys-edirham-v1.jar',
+                'fileChecksum': '3ca6e0d07d1b86bf3b6fa0bfbcef1daa32abf696',
+                'fileSize': 101972458,
+                'timeUpdated': 1635071638088
+            },
+            'target': {
+                'id': 11061139,
+                'timeCreated': 1634616503276,
+                'timeUpdated': 1638252995379,
+                'name': 'ftadevserver',
+                'type': 'SERVER',
+                'serverType': 'GATEWAY',
+                'muleVersion': '4.3.0-20210119',
+                'gatewayVersion': '4.3.0-20210119',
+                'agentVersion': '2.4.22',
+                'licenseExpirationDate': 1709251200000,
+                'certificateExpirationDate': 1697688503000,
+                'status': 'DISCONNECTED',
+                'addresses': [{
+                        'ip': '192.168.122.1',
+                        'networkInterface': 'virbr0'
+                    },
+                    {
+                        'ip': '10.52.91.21',
+                        'networkInterface': 'ens192'
+                    }
+                ],
+                'runtimeInformation': {
+                    'jvmInformation': {
+                        'runtime': {
+                            'name': 'OpenJDK Runtime Environment',
+                            'version': '1.8.0_302-b08'
+                        },
+                        'specification': {
+                            'vendor': 'Temurin',
+                            'name': 'Java Platform API 
+                            Specification ', '
+                            version ': '
+                            1.8 '
+                        }
+                    },
+                    '
+                    osInformation ': {'
+                    name ': '
+                    Linux ', '
+                    version ': '
+                    4.18 .0 - 147.8 .1.el8_1.x86_64 ', '
+                    architecture ': '
+                    amd64 '
+                },
+                '
+                muleLicenseExpirationDate ': 1709251200000
+            }
+        }
+    },
+    {
+        '
+        id ': 8748617, '
+        timeCreated ': 1634704227796, '
+        timeUpdated ': 1634704227888, '
+        name ': '
+        api - prc - edirham - v1 ', 
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10463090,
+            'timeCreated': 1634704227886,
+            'timeUpdated': 1635854366115,
+            'artifactName': 'api-prc-edirham-v1',
+            'artifact': {
+                'id': 9836738,
+                'storageId': 10869248,
+                'name': 'api-prc-edirham-v1',
+                'fileName': 'api-prc-edirham-v1.jar',
+                'fileChecksum': '200c76927fc76c6b52eeb0d7c8574b7566a5dcb7',
+                'fileSize': 102657272,
+                'timeUpdated': 1634704229792
+            },
+            'deploymentId': 8748617,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9836738,
+            'storageId': 10869248,
+            'name': 'api-prc-edirham-v1',
+            'fileName': 'api-prc-edirham-v1.jar',
+            'fileChecksum': '200c76927fc76c6b52eeb0d7c8574b7566a5dcb7',
+            'fileSize': 102657272,
+            'timeUpdated': 1634704229792
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8786107,
+        'timeCreated': 1635061568944,
+        'timeUpdated': 1636277268504,
+        'name': 'api-sys-ccis-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10507366,
+            'timeCreated': 1635061569238,
+            'timeUpdated': 1637684703396,
+            'artifactName': 'api-sys-ccis-v1',
+            'artifact': {
+                'id': 10011743,
+                'storageId': 11098309,
+                'name': 'api-sys-ccis-v1',
+                'fileName': 'api-sys-ccis-v1-1.0.0-mule-application.jar',
+                'fileChecksum': 'f538b67b07849e5e75ddd57410b34187743bdede',
+                'fileSize': 101556292,
+                'timeUpdated': 1636277270644
+            },
+            'deploymentId': 8786107,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10011743,
+            'storageId': 11098309,
+            'name': 'api-sys-ccis-v1',
+            'fileName': 'api-sys-ccis-v1-1.0.0-mule-application.jar',
+            'fileChecksum': 'f538b67b07849e5e75ddd57410b34187743bdede',
+            'fileSize': 101556292,
+            'timeUpdated': 1636277270644
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8786114,
+        'timeCreated': 1635061786284,
+        'timeUpdated': 1636265638611,
+        'name': 'api-prc-ccis-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10507374,
+            'timeCreated': 1635061786597,
+            'timeUpdated': 1637684716532,
+            'artifactName': 'api-prc-ccis-v1',
+            'artifact': {
+                'id': 10010854,
+                'storageId': 11097029,
+                'name': 'api-prc-ccis-v1',
+                'fileName': 'api-prc-ccis-v1-1.0.0-mule-application.jar',
+                'fileChecksum': 'baf50d223d698c78aa7fdaeba0bf0a1060855570',
+                'fileSize': 101547078,
+                'timeUpdated': 1636265640780
+            },
+            'deploymentId': 8786114,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10010854,
+            'storageId': 11097029,
+            'name': 'api-prc-ccis-v1',
+            'fileName': 'api-prc-ccis-v1-1.0.0-mule-application.jar',
+            'fileChecksum': 'baf50d223d698c78aa7fdaeba0bf0a1060855570',
+            'fileSize': 101547078,
+            'timeUpdated': 1636265640780
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8797161,
+        'timeCreated': 1635169369806,
+        'timeUpdated': 1636376308746,
+        'name': 'api-sys-ccis-v1',
+        'uptime': -1,
+        'desiredStatus': 'STOPPED',
+        'lastReportedStatus': 'UNDEPLOYED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10519838,
+            'timeCreated': 1635169369958,
+            'timeUpdated': 1638190761632,
+            'artifactName': 'api-sys-ccis-v1',
+            'artifact': {
+                'id': 10019788,
+                'storageId': 11108361,
+                'name': 'api-sys-ccis-v1',
+                'fileName': 'api-sys-ccis-v1.jar',
+                'fileChecksum': '45b9ef09966efbe28ddef75caf471de4851267d5',
+                'fileSize': 101569665,
+                'timeUpdated': 1636376310632
+            },
+            'deploymentId': 8797161,
+            'serverId': 11061139,
+            'lastReportedStatus': 'UNDEPLOYED',
+            'desiredStatus': 'STOPPED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10019788,
+            'storageId': 11108361,
+            'name': 'api-sys-ccis-v1',
+            'fileName': 'api-sys-ccis-v1.jar',
+            'fileChecksum': '45b9ef09966efbe28ddef75caf471de4851267d5',
+            'fileSize': 101569665,
+            'timeUpdated': 1636376310632
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8812823,
+        'timeCreated': 1635314985213,
+        'timeUpdated': 1635336890180,
+        'name': 'api-prc-ccis-ects-v4',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10538797,
+            'timeCreated': 1635314985555,
+            'timeUpdated': 1635336961253,
+            'artifactName': 'api-prc-ccis-ects-v4',
+            'artifact': {
+                'id': 9912696,
+                'storageId': 10968002,
+                'name': 'api-prc-ccis-ects-v4',
+                'fileName': 'api-prc-ccis-ects-v4-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': 'e8748b33cbe66deed43b5255bdf41d5dea17e655',
+                'fileSize': 132315916,
+                'timeUpdated': 1635336892784
+            },
+            'deploymentId': 8812823,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9912696,
+            'storageId': 10968002,
+            'name': 'api-prc-ccis-ects-v4',
+            'fileName': 'api-prc-ccis-ects-v4-1.0.0-SNAPSHOT-mule-application.jar',
+            'fileChecksum': 'e8748b33cbe66deed43b5255bdf41d5dea17e655',
+            'fileSize': 132315916,
+            'timeUpdated': 1635336892784
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8813745,
+        'timeCreated': 1635322533402,
+        'timeUpdated': 1636377906694,
+        'name': 'api-prc-ccis-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'UNDEPLOYED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10539864,
+            'timeCreated': 1635322533666,
+            'timeUpdated': 1638190756933,
+            'artifactName': 'api-prc-ccis-v1',
+            'artifact': {
+                'id': 10020104,
+                'storageId': 11108762,
+                'name': 'api-prc-ccis-v1',
+                'fileName': 'api-prc-ccis-v1.jar',
+                'fileChecksum': '1c48c53aa3d03a52df18ac656925b41e35d18341',
+                'fileSize': 101565092,
+                'timeUpdated': 1636377908783
+            },
+            'deploymentId': 8813745,
+            'serverId': 11061139,
+            'lastReportedStatus': 'UNDEPLOYED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10020104,
+            'storageId': 11108762,
+            'name': 'api-prc-ccis-v1',
+            'fileName': 'api-prc-ccis-v1.jar',
+            'fileChecksum': '1c48c53aa3d03a52df18ac656925b41e35d18341',
+            'fileSize': 101565092,
+            'timeUpdated': 1636377908783
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8817880,
+        'timeCreated': 1635344625939,
+        'timeUpdated': 1638170719891,
+        'name': 'mule-oauth-provider',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10544538,
+            'timeCreated': 1635344626096,
+            'timeUpdated': 1638252969024,
+            'artifactName': 'mule-oauth-provider',
+            'artifact': {
+                'id': 10231940,
+                'storageId': 11374324,
+                'name': 'mule-oauth-provider',
+                'fileName': 'mule-oauth-provider.jar',
+                'fileChecksum': '634953a63a154ceb37d092d8a82149cd8fb72186',
+                'fileSize': 90929207,
+                'timeUpdated': 1638170721686
+            },
+            'deploymentId': 8817880,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10231940,
+            'storageId': 11374324,
+            'name': 'mule-oauth-provider',
+            'fileName': 'mule-oauth-provider.jar',
+            'fileChecksum': '634953a63a154ceb37d092d8a82149cd8fb72186',
+            'fileSize': 90929207,
+            'timeUpdated': 1638170721686
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8828002,
+        'timeCreated': 1635430885940,
+        'timeUpdated': 1635657473124,
+        'name': 'api-sys-giban-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10557084,
+            'timeCreated': 1635430886308,
+            'timeUpdated': 1635690332419,
+            'artifactName': 'api-sys-giban-v1',
+            'artifact': {
+                'id': 9947939,
+                'storageId': 11015856,
+                'name': 'api-sys-giban-v1',
+                'fileName': 'api-sys-giban-v1-1.0.0-mule-application.jar',
+                'fileChecksum': '3a7625c32fd3bdeff63200f4d755bd689148b474',
+                'fileSize': 98206373,
+                'timeUpdated': 1635657479669
+            },
+            'deploymentId': 8828002,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9947939,
+            'storageId': 11015856,
+            'name': 'api-sys-giban-v1',
+            'fileName': 'api-sys-giban-v1-1.0.0-mule-application.jar',
+            'fileChecksum': '3a7625c32fd3bdeff63200f4d755bd689148b474',
+            'fileSize': 98206373,
+            'timeUpdated': 1635657479669
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8828012,
+        'timeCreated': 1635430922555,
+        'timeUpdated': 1635657617020,
+        'name': 'api-prc-giban-v2',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10557094,
+            'timeCreated': 1635430922968,
+            'timeUpdated': 1635690311398,
+            'artifactName': 'api-prc-giban-v2',
+            'artifact': {
+                'id': 9947943,
+                'storageId': 11015861,
+                'name': 'api-prc-giban-v2',
+                'fileName': 'api-prc-giban-v2-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': 'e7b36d44c17156bf59a9678a2872b6dd1c4a93c6',
+                'fileSize': 155349157,
+                'timeUpdated': 1635657620831
+            },
+            'deploymentId': 8828012,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9947943,
+            'storageId': 11015861,
+            'name': 'api-prc-giban-v2',
+            'fileName': 'api-prc-giban-v2-1.0.0-SNAPSHOT-mule-application.jar',
+            'fileChecksum': 'e7b36d44c17156bf59a9678a2872b6dd1c4a93c6',
+            'fileSize': 155349157,
+            'timeUpdated': 1635657620831
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8832956,
+        'timeCreated': 1635490350004,
+        'timeUpdated': 1637506371001,
+        'name': 'api-prc-trc-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10562994,
+            'timeCreated': 1635490350189,
+            'timeUpdated': 1638252984451,
+            'artifactName': 'api-prc-trc-v1',
+            'artifact': {
+                'id': 10160786,
+                'storageId': 11287523,
+                'name': 'api-prc-trc-v1',
+                'fileName': 'api-prc-trc-v1.jar',
+                'fileChecksum': 'fe0ce9b34b7aaa629788a3204cea2cc4e5075589',
+                'fileSize': 102076108,
+                'timeUpdated': 1637506373178
+            },
+            'deploymentId': 8832956,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10160786,
+            'storageId': 11287523,
+            'name': 'api-prc-trc-v1',
+            'fileName': 'api-prc-trc-v1.jar',
+            'fileChecksum': 'fe0ce9b34b7aaa629788a3204cea2cc4e5075589',
+            'fileSize': 102076108,
+            'timeUpdated': 1637506373178
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8848509,
+        'timeCreated': 1635660534232,
+        'timeUpdated': 1635923430909,
+        'name': 'api-prc-giban-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10580416,
+            'timeCreated': 1635660534651,
+            'timeUpdated': 1635949502265,
+            'artifactName': 'api-prc-giban-v1',
+            'artifact': {
+                'id': 9975672,
+                'storageId': 11051758,
+                'name': 'api-prc-giban-v1',
+                'fileName': 'api-prc-giban-v1-1.0.0-mule-application.jar',
+                'fileChecksum': '189aadac1fec4cf8f78a6c420440f256c96072af',
+                'fileSize': 155216030,
+                'timeUpdated': 1635923434630
+            },
+            'deploymentId': 8848509,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9975672,
+            'storageId': 11051758,
+            'name': 'api-prc-giban-v1',
+            'fileName': 'api-prc-giban-v1-1.0.0-mule-application.jar',
+            'fileChecksum': '189aadac1fec4cf8f78a6c420440f256c96072af',
+            'fileSize': 155216030,
+            'timeUpdated': 1635923434630
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8848581,
+        'timeCreated': 1635663666908,
+        'timeUpdated': 1635663667107,
+        'name': 'api-prc-gs1-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10580493,
+            'timeCreated': 1635663667105,
+            'timeUpdated': 1636454363770,
+            'artifactName': 'api-prc-gs1-v1',
+            'artifact': {
+                'id': 9948184,
+                'storageId': 11016126,
+                'name': 'api-prc-gs1-v1',
+                'fileName': 'api-prc-gs1-v1.jar',
+                'fileChecksum': '8ca8d91744a22a660e98fc572693116f90b80449',
+                'fileSize': 85107235,
+                'timeUpdated': 1635663668815
+            },
+            'deploymentId': 8848581,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9948184,
+            'storageId': 11016126,
+            'name': 'api-prc-gs1-v1',
+            'fileName': 'api-prc-gs1-v1.jar',
+            'fileChecksum': '8ca8d91744a22a660e98fc572693116f90b80449',
+            'fileSize': 85107235,
+            'timeUpdated': 1635663668815
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8849312,
+        'timeCreated': 1635671578307,
+        'timeUpdated': 1636282170432,
+        'name': 'port-test',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10581306,
+            'timeCreated': 1635671578546,
+            'timeUpdated': 1638252964989,
+            'artifactName': 'port-test',
+            'artifact': {
+                'id': 9948982,
+                'storageId': 11016962,
+                'name': 'port-test',
+                'fileName': 'port-test.jar',
+                'fileChecksum': '2c38f34cedd745ef7143728ee0c7e8f018e5d09e',
+                'fileSize': 1935023,
+                'timeUpdated': 1635672638730
+            },
+            'deploymentId': 8849312,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9948982,
+            'storageId': 11016962,
+            'name': 'port-test',
+            'fileName': 'port-test.jar',
+            'fileChecksum': '2c38f34cedd745ef7143728ee0c7e8f018e5d09e',
+            'fileSize': 1935023,
+            'timeUpdated': 1635672638730
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8850463,
+        'timeCreated': 1635680002201,
+        'timeUpdated': 1635745687999,
+        'name': 'api-prc-ccis-ects-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10582681,
+            'timeCreated': 1635680002483,
+            'timeUpdated': 1635854373921,
+            'artifactName': 'api-prc-ccis-ects-v1',
+            'artifact': {
+                'id': 9952750,
+                'storageId': 11021242,
+                'name': 'api-prc-ccis-ects-v1',
+                'fileName': 'api-prc-ccis-ects-v1.jar',
+                'fileChecksum': '5ace04a6306e6d95e83f9bb5517a22e456638abb',
+                'fileSize': 132332092,
+                'timeUpdated': 1635745690542
+            },
+            'deploymentId': 8850463,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9952750,
+            'storageId': 11021242,
+            'name': 'api-prc-ccis-ects-v1',
+            'fileName': 'api-prc-ccis-ects-v1.jar',
+            'fileChecksum': '5ace04a6306e6d95e83f9bb5517a22e456638abb',
+            'fileSize': 132332092,
+            'timeUpdated': 1635745690542
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8853845,
+        'timeCreated': 1635753225860,
+        'timeUpdated': 1635767080885,
+        'name': 'api-prc-trc-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10586523,
+            'timeCreated': 1635753226305,
+            'timeUpdated': 1635767197057,
+            'artifactName': 'api-prc-trc-v1',
+            'artifact': {
+                'id': 9956424,
+                'storageId': 11025612,
+                'name': 'api-prc-trc-v1',
+                'fileName': 'api-prc-trc-v1.jar',
+                'fileChecksum': '4498a166fcdebbcbbf7466104c1ec08aec89daab',
+                'fileSize': 102087792,
+                'timeUpdated': 1635767082764
+            },
+            'deploymentId': 8853845,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9956424,
+            'storageId': 11025612,
+            'name': 'api-prc-trc-v1',
+            'fileName': 'api-prc-trc-v1.jar',
+            'fileChecksum': '4498a166fcdebbcbbf7466104c1ec08aec89daab',
+            'fileSize': 102087792,
+            'timeUpdated': 1635767082764
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8854220,
+        'timeCreated': 1635757006915,
+        'timeUpdated': 1635762745073,
+        'name': 'fta-sys-email-service',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10586926,
+            'timeCreated': 1635757007379,
+            'timeUpdated': 1637849226862,
+            'artifactName': 'fta-sys-email-service',
+            'artifact': {
+                'id': 9954006,
+                'storageId': 11022837,
+                'name': 'fta-sys-email-service',
+                'fileName': 'fta-sys-email-service-1.0.1-mule-application.jar',
+                'fileChecksum': '394a9246a2cdcf50203b4464e67c038a89f244ba',
+                'fileSize': 79520468,
+                'timeUpdated': 1635757008897
+            },
+            'deploymentId': 8854220,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9954006,
+            'storageId': 11022837,
+            'name': 'fta-sys-email-service',
+            'fileName': 'fta-sys-email-service-1.0.1-mule-application.jar',
+            'fileChecksum': '394a9246a2cdcf50203b4464e67c038a89f244ba',
+            'fileSize': 79520468,
+            'timeUpdated': 1635757008897
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8854854,
+        'timeCreated': 1635758198458,
+        'timeUpdated': 1635852293991,
+        'name': 'email-connector',
+        'uptime': -1,
+        'desiredStatus': 'STOPPED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10587633,
+            'timeCreated': 1635758198991,
+            'timeUpdated': 1638190917958,
+            'artifactName': 'email-connector',
+            'artifact': {
+                'id': 9967200,
+                'storageId': 11039772,
+                'name': 'email-connector',
+                'fileName': 'email_connector-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': '895d98727a633b0e038b1621a1c9e0cfa54dd15f',
+                'fileSize': 2557908,
+                'timeUpdated': 1635852294251
+            },
+            'deploymentId': 8854854,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STOPPED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9967200,
+            'storageId': 11039772,
+            'name': 'email-connector',
+            'fileName': 'email_connector-1.0.0-SNAPSHOT-mule-application.jar',
+            'fileChecksum': '895d98727a633b0e038b1621a1c9e0cfa54dd15f',
+            'fileSize': 2557908,
+            'timeUpdated': 1635852294251
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8861913,
+        'timeCreated': 1635835605905,
+        'timeUpdated': 1635844669374,
+        'name': 'api-prc-taxgov-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10596566,
+            'timeCreated': 1635835606189,
+            'timeUpdated': 1638252989318,
+            'artifactName': 'api-prc-taxgov-v1',
+            'artifact': {
+                'id': 9965417,
+                'storageId': 11037563,
+                'name': 'api-prc-taxgov-v1',
+                'fileName': 'api-prc-taxgov-v1.jar',
+                'fileChecksum': '58948786f158f3ee17496bd035f4b87e024fd83c',
+                'fileSize': 85038536,
+                'timeUpdated': 1635844671166
+            },
+            'deploymentId': 8861913,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9965417,
+            'storageId': 11037563,
+            'name': 'api-prc-taxgov-v1',
+            'fileName': 'api-prc-taxgov-v1.jar',
+            'fileChecksum': '58948786f158f3ee17496bd035f4b87e024fd83c',
+            'fileSize': 85038536,
+            'timeUpdated': 1635844671166
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8862324,
+        'timeCreated': 1635839536043,
+        'timeUpdated': 1635839536586,
+        'name': 'api-prc-ccis-v2',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10597004,
+            'timeCreated': 1635839536583,
+            'timeUpdated': 1635839581724,
+            'artifactName': 'api-prc-ccis-v2',
+            'artifact': {
+                'id': 9964062,
+                'storageId': 11036016,
+                'name': 'api-prc-ccis-v2',
+                'fileName': 'api-prc-ccis-v2-1.0.0-mule-application.jar',
+                'fileChecksum': 'a96bbae865f0512bd8be053728ba432fdc839502',
+                'fileSize': 101083027,
+                'timeUpdated': 1635839538794
+            },
+            'deploymentId': 8862324,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 9964062,
+            'storageId': 11036016,
+            'name': 'api-prc-ccis-v2',
+            'fileName': 'api-prc-ccis-v2-1.0.0-mule-application.jar',
+            'fileChecksum': 'a96bbae865f0512bd8be053728ba432fdc839502',
+            'fileSize': 101083027,
+            'timeUpdated': 1635839538794
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8909804,
+        'timeCreated': 1636289305567,
+        'timeUpdated': 1636377002010,
+        'name': 'api-prc-sendsms-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10648129,
+            'timeCreated': 1636289306116,
+            'timeUpdated': 1636381501663,
+            'artifactName': 'api-prc-sendsms-v1',
+            'artifact': {
+                'id': 10019935,
+                'storageId': 11108540,
+                'name': 'api-prc-sendsms-v1',
+                'fileName': 'api-prc-sendsms-v1-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': '2111456a34895ff6b151712b16c2bec0103a1ecb',
+                'fileSize': 84031576,
+                'timeUpdated': 1636377003906
+            },
+            'deploymentId': 8909804,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10019935,
+            'storageId': 11108540,
+            'name': 'api-prc-sendsms-v1',
+            'fileName': 'api-prc-sendsms-v1-1.0.0-SNAPSHOT-mule-application.jar',
+            'fileChecksum': '2111456a34895ff6b151712b16c2bec0103a1ecb',
+            'fileSize': 84031576,
+            'timeUpdated': 1636377003906
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8915995,
+        'timeCreated': 1636376084958,
+        'timeUpdated': 1638078572483,
+        'name': 'api-prc-sendsms-v1',
+        'uptime': -1,
+        'desiredStatus': 'STOPPED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10655001,
+            'timeCreated': 1636376085337,
+            'timeUpdated': 1638190918315,
+            'artifactName': 'api-prc-sendsms-v1',
+            'artifact': {
+                'id': 10225457,
+                'storageId': 11367239,
+                'name': 'api-prc-sendsms-v1',
+                'fileName': 'api-prc-sendsms-v1-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': '66715599af61f47810366b9e05fce2627be9e1b5',
+                'fileSize': 84031734,
+                'timeUpdated': 1638078574395
+            },
+            'deploymentId': 8915995,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STOPPED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10225457,
+            'storageId': 11367239,
+            'name': 'api-prc-sendsms-v1',
+            'fileName': 'api-prc-sendsms-v1-1.0.0-SNAPSHOT-mule-application.jar',
+            'fileChecksum': '66715599af61f47810366b9e05fce2627be9e1b5',
+            'fileSize': 84031734,
+            'timeUpdated': 1638078574395
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8924625,
+        'timeCreated': 1636456564298,
+        'timeUpdated': 1636458443755,
+        'name': 'api-prc-barcode-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10665084,
+            'timeCreated': 1636456564828,
+            'timeUpdated': 1636458599172,
+            'artifactName': 'api-prc-barcode-v1',
+            'artifact': {
+                'id': 10031371,
+                'storageId': 11123273,
+                'name': 'api-prc-barcode-v1',
+                'fileName': 'api-prc-barcode-v1.jar',
+                'fileChecksum': 'd1df25d52c3226178c4660c9ec1ff962d32bf58a',
+                'fileSize': 85050819,
+                'timeUpdated': 1636458445376
+            },
+            'deploymentId': 8924625,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10031371,
+            'storageId': 11123273,
+            'name': 'api-prc-barcode-v1',
+            'fileName': 'api-prc-barcode-v1.jar',
+            'fileChecksum': 'd1df25d52c3226178c4660c9ec1ff962d32bf58a',
+            'fileSize': 85050819,
+            'timeUpdated': 1636458445376
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8924952,
+        'timeCreated': 1636459307402,
+        'timeUpdated': 1636460041010,
+        'name': 'fta-sys-email-service',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10665502,
+            'timeCreated': 1636459307870,
+            'timeUpdated': 1638252976097,
+            'artifactName': 'fta-sys-email-service',
+            'artifact': {
+                'id': 10031583,
+                'storageId': 11123567,
+                'name': 'fta-sys-email-service',
+                'fileName': 'fta-sys-email-service.jar',
+                'fileChecksum': '31924dd40fd1ed79671cb64063040d98769fffa0',
+                'fileSize': 79550416,
+                'timeUpdated': 1636460043092
+            },
+            'deploymentId': 8924952,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10031583,
+            'storageId': 11123567,
+            'name': 'fta-sys-email-service',
+            'fileName': 'fta-sys-email-service.jar',
+            'fileChecksum': '31924dd40fd1ed79671cb64063040d98769fffa0',
+            'fileSize': 79550416,
+            'timeUpdated': 1636460043092
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 8969959,
+        'timeCreated': 1636879727314,
+        'timeUpdated': 1636879727876,
+        'name': 'api-sys-trsp-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STARTED',
+        'started': True,
+        'serverArtifacts': [{
+            'id': 10717498,
+            'timeCreated': 1636879727874,
+            'timeUpdated': 1636907103038,
+            'artifactName': 'api-sys-trsp-v1',
+            'artifact': {
+                'id': 10082637,
+                'storageId': 11188590,
+                'name': 'api-sys-trsp-v1',
+                'fileName': 'api-sys-trsp-v1-1.0.0-mule-application.jar',
+                'fileChecksum': '098cc4851117e3b27ad76b22b191831d35df8259',
+                'fileSize': 100659776,
+                'timeUpdated': 1636879730031
+            },
+            'deploymentId': 8969959,
+            'serverId': 10718724,
+            'lastReportedStatus': 'STARTED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10082637,
+            'storageId': 11188590,
+            'name': 'api-sys-trsp-v1',
+            'fileName': 'api-sys-trsp-v1-1.0.0-mule-application.jar',
+            'fileChecksum': '098cc4851117e3b27ad76b22b191831d35df8259',
+            'fileSize': 100659776,
+            'timeUpdated': 1636879730031
+        },
+        'target': {
+            'id': 10718724,
+            'timeCreated': 1633251765076,
+            'timeUpdated': 1638081978477,
+            'name': 'ftaeidev',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0',
+            'gatewayVersion': '4.3.0',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1696323765000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                'ip': '172.31.10.67',
+                'networkInterface': 'eth0'
+            }],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'Java(TM) SE Runtime Environment',
+                        'version': '1.8.0_131-b11'
+                    },
+                    'specification': {
+                        'vendor': 'Oracle Corporation',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-240.1.1.el8_3.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 9057803,
+        'timeCreated': 1637658834384,
+        'timeUpdated': 1637658835218,
+        'name': 'https-test-app',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10823282,
+            'timeCreated': 1637658835216,
+            'timeUpdated': 1638252972196,
+            'artifactName': 'https-test-app',
+            'artifact': {
+                'id': 10178426,
+                'storageId': 11309182,
+                'name': 'https-test-app',
+                'fileName': 'https_test_app-1.0.0-SNAPSHOT-mule-application.jar',
+                'fileChecksum': '853c3bcada98f6ac9c355e48c2572b4161a1be4c',
+                'fileSize': 1771434,
+                'timeUpdated': 1637658835412
+            },
+            'deploymentId': 9057803,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10178426,
+            'storageId': 11309182,
+            'name': 'https-test-app',
+            'fileName': 'https_test_app-1.0.0-SNAPSHOT-mule-application.jar',
+            'fileChecksum': '853c3bcada98f6ac9c355e48c2572b4161a1be4c',
+            'fileSize': 1771434,
+            'timeUpdated': 1637658835412
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    },
+    {
+        'id': 9108918,
+        'timeCreated': 1638179757560,
+        'timeUpdated': 1638181317577,
+        'name': 'api-prc-ects-ded-v1',
+        'uptime': -1,
+        'desiredStatus': 'STARTED',
+        'lastReportedStatus': 'STOPPED',
+        'started': False,
+        'serverArtifacts': [{
+            'id': 10880643,
+            'timeCreated': 1638179757970,
+            'timeUpdated': 1638252955771,
+            'artifactName': 'api-prc-ects-ded-v1',
+            'artifact': {
+                'id': 10234355,
+                'storageId': 11377047,
+                'name': 'api-prc-ects-ded-v1',
+                'fileName': 'api-prc-ects-ded-v1.jar',
+                'fileChecksum': '7e81f988fb7bcecdadf7d70737047d754358db0d',
+                'fileSize': 88736087,
+                'timeUpdated': 1638181319400
+            },
+            'deploymentId': 9108918,
+            'serverId': 11061139,
+            'lastReportedStatus': 'STOPPED',
+            'desiredStatus': 'STARTED',
+            'message': '',
+            'discovered': False
+        }],
+        'artifact': {
+            'id': 10234355,
+            'storageId': 11377047,
+            'name': 'api-prc-ects-ded-v1',
+            'fileName': 'api-prc-ects-ded-v1.jar',
+            'fileChecksum': '7e81f988fb7bcecdadf7d70737047d754358db0d',
+            'fileSize': 88736087,
+            'timeUpdated': 1638181319400
+        },
+        'target': {
+            'id': 11061139,
+            'timeCreated': 1634616503276,
+            'timeUpdated': 1638252995379,
+            'name': 'ftadevserver',
+            'type': 'SERVER',
+            'serverType': 'GATEWAY',
+            'muleVersion': '4.3.0-20210119',
+            'gatewayVersion': '4.3.0-20210119',
+            'agentVersion': '2.4.22',
+            'licenseExpirationDate': 1709251200000,
+            'certificateExpirationDate': 1697688503000,
+            'status': 'DISCONNECTED',
+            'addresses': [{
+                    'ip': '192.168.122.1',
+                    'networkInterface': 'virbr0'
+                },
+                {
+                    'ip': '10.52.91.21',
+                    'networkInterface': 'ens192'
+                }
+            ],
+            'runtimeInformation': {
+                'jvmInformation': {
+                    'runtime': {
+                        'name': 'OpenJDK Runtime Environment',
+                        'version': '1.8.0_302-b08'
+                    },
+                    'specification': {
+                        'vendor': 'Temurin',
+                        'name': 'Java Platform API Specification',
+                        'version': '1.8'
+                    }
+                },
+                'osInformation': {
+                    'name': 'Linux',
+                    'version': '4.18.0-147.8.1.el8_1.x86_64',
+                    'architecture': 'amd64'
+                },
+                'muleLicenseExpirationDate': 1709251200000
+            }
+        }
+    }
+]
+}
