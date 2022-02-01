@@ -59,6 +59,38 @@ if __name__ == '__main__':
     # print(applications_list)
 
     # to get application detail based upon application id
-    #
+    # application_id = 0
+    # application_detail = view_application.get_application( application_id, authorization_header, ORG_ID, ENV_ID)
+    # print(application_detail)
 
-    # to
+    # to add an application
+    # body = """{
+    #     "applicationSource": {
+    #         "source": "EXCHANGE",
+    #         "groupId": "com.mulesoft.hybrid",
+    #         "artifactId": "testApp",
+    #         "version": "0.0.2"
+    #     },
+    #     "targetId": 1,
+    #     "artifactName": "myApp"
+    # }"""
+    # application_detail = add_application.post_application(body, authorization_header, ORG_ID, ENV_ID)
+    # print(application_detail)
+
+    # to delete a deployment
+    # application_id = 0
+    # is_deleted = delete_application.delete_application(
+    #     application_id, authorization_header, ORG_ID, ENV_ID)
+    # if is_deleted:
+    #     print("deleting deployment...")
+    # else:
+    #     print("failed request to delete deployment")
+
+    # to update a deployment with specific attributes
+    # application_id = 0
+    # data = """{
+    #     "desiredStatus": "STOPPED"
+    #     }"""
+    # updated_application = update_application.patch_application(
+    #     application_id, data, authorization_header, ORG_ID, ENV_ID)
+    # print(updated_application)
