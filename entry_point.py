@@ -7,6 +7,7 @@ from applications import view_application
 from applications import delete_application
 from applications import add_application
 from applications import update_application
+from servers import view_servers
 
 # for login using username and password
 
@@ -94,3 +95,8 @@ if __name__ == '__main__':
     # updated_application = update_application.patch_application(
     #     application_id, data, authorization_header, ORG_ID, ENV_ID)
     # print(updated_application)
+
+    # to get the list of servers
+    # server_list = view_servers.get_servers(
+    #     authorization_header, ORG_ID, ENV_ID)
+    # print(server_list)

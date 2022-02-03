@@ -1,6 +1,6 @@
 import requests
 import property_reader as properties
-import view_application
+
 
 # Redeploys the app with a new artifact.
 
